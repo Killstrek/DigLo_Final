@@ -1,0 +1,5 @@
+# Digital / editor leftovers
+*.bak
+*~
+.DS_Store
+__pycache__/
